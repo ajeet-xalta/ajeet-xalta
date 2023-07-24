@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ajeet kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
  <img width="100%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coder">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krajeet35&label=Profile%20views&color=0e75b6&style=flat" alt="krajeet35" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeet-xalta&label=Profile%20views&color=0e75b6&style=flat" alt="ajeet-xalta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krajeet35" alt="krajeet35" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeet-xalta" alt="ajeet-xalta" /></a> </p>
 
 - 🌱 I’m currently working on **Python, Django, Automation Anywhere**
 
